@@ -60,33 +60,34 @@ Lot 3 Manufacturing T-Test showed low significance level of p-value of 0.04168, 
 
 ### Study Design:  MechaCar vs. Competition
 
-Car purchase is a big commitment and there are many aspects customs considers when purchasing a car. To help MechaCar to face against the competition we wrote short statistical study.
+This study would involve collecting data on MechaCar and its comparable models across several different manufacturers over the last 3 years.
 
-Metrics to Test
+**Metrics to Test:**
+
 There is a wide range of metrics that will be of interest to a consumer, such as:
 
-   *Cost
-   *Horsepower
-   *Design
-   *Safety rating
-   *Vehicle color
-   *Vehicle type
+   *Safety Feature Rating
+   *Current Price (Selling)
+   *Drive Package
+   *Engine (Electric, Hybrid, Gasoline / Conventional)
+   *Resale Value
+   *Average Annual Cost of ownership (Maintenance)
+   *MPG (Gasoline Efficiency)
+   
 
 **Statistical Hypothesis**
 
-There are two types of statistical hypothesis to consider: • The null hypothesis is also known as H0 and is generally the hypothesis that can be explained by random chance. • The alternate hypothesis is also known as Ha and is generally the hypothesis that is influenced by non-random events.
+There are two types of statistical hypotheses to consider: 
+• The null hypothesis(Ho): MechaCar is priced correctly based on its performance of key factors for its market category.  
+• The alternate hypothesis(Ha): MechaCar is not priced correctly based on performance of key factors for its market category.
 
 **Type of Statistical Test**
 
-   *One-sample t-test
-   *Two-sample t-test
-   *ANOVA
-   *Simple linear regression/ Multiple linear regression
-   *Chi-squared
+A multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price (it may be all of them!)
    
-**Data Requirement**
 
-To complete this statistical analysis, we will need to gather data of metrics we choose as as well as similar data metrics with competitors' prototypes.
+   
+   
 
 
 
